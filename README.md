@@ -55,8 +55,6 @@
 <br>
 <br>
 
------
-
 <br>
 
 <br>
@@ -68,7 +66,6 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
@@ -77,7 +74,6 @@
 <li>
 <a href="malito:javierlavallen02@gmail.com">
   <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=email&logoColor=white"> 
-<!--   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{juanlavallen}1212%2Fhit-counter" /> -->
 </a>
 </li>
 
@@ -101,8 +97,6 @@
 <br>
 <br>
 <br>
-
----
 
 <br>
 
