@@ -70,7 +70,7 @@
 <div align='left'>
 
 <ul>
-
+### Connect with me 📲
 <li>
 <a href="malito:javierlavallen02@gmail.com">
   <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=email&logoColor=white"> 
