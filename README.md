@@ -57,7 +57,7 @@
 
 </p>
 
-<p><img align="right" bakgroundcolor="black" src="https://github-readme-stats.vercel.app/api/top-langs?username=javierlavallenn&show_icons=true&locale=en&layout=compact" alt="javierlavallenn" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=javierlavallenn&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="javierlavallenn" /></p>
 
 <br>
 <br>
