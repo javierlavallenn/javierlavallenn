@@ -26,7 +26,7 @@
 
 - **Languages**:
   
-  <img src="https://img.shields.io/badge/csharp%20-%2314354C.svg?&style=for-the-badge&logo=csharp&logoColor=white"> 
+  <img src="https://img.shields.io/badge/c#%20-%2314354C.svg?&style=for-the-badge&logo=csharp&logoColor=white"> 
 <br>   
     
 - **Front-End Development**:
